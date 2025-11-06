@@ -1,4 +1,3 @@
-
 ### 🛠️ Languages & Tools:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
@@ -15,5 +14,3 @@
   <img src="https://github.com/user-attachments/assets/d42bd290-0baa-4030-9600-8c4711186354" width="40" height="40" alt="Aiogram"/>
   <img src="https://github.com/user-attachments/assets/191827df-9c93-487f-8e22-de65e97268dc" width="40" height="40" alt="Apache Kafka"/>
 </p>
-
-
