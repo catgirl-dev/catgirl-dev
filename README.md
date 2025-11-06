@@ -12,7 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="40" height="40" alt="Jira"/>
   <img src="https://github.com/user-attachments/assets/9789b135-e363-4e3f-9262-8fbe15878bbb" width="40" height="40" alt="Charles Proxy"/>
   <img src="https://github.com/user-attachments/assets/d42bd290-0baa-4030-9600-8c4711186354" width="40" height="40" alt="Aiogram"/>
-
+  <img src="https://github.com/user-attachments/assets/ca6b6be1-3448-406f-b307-eff6b918e04f" width="40" height="40" alt="Apache JMeter"/>
 </p>
 
 
