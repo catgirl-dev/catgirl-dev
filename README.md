@@ -13,4 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="40" height="40" alt="Jira"/>
   <img src="https://github.com/user-attachments/assets/d42bd290-0baa-4030-9600-8c4711186354" width="40" height="40" alt="Aiogram"/>
   <img src="https://github.com/user-attachments/assets/191827df-9c93-487f-8e22-de65e97268dc" width="40" height="40" alt="Apache Kafka"/>
+  <img src="https://github.com/user-attachments/assets/212deb1f-9cc4-436d-8102-cd20fca5baad" width="40" height="40" alt="Bash"/>
+  <img src="https://github.com/user-attachments/assets/a288291a-fa2e-4003-8c5c-c71aa933892e" width="40" height="40" alt="TestIT"/>  
 </p>
