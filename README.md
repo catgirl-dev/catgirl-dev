@@ -6,22 +6,22 @@
 ```
 ### 🛠️ Languages & Tools:
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="Javascript"/>     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="40" height="40" alt="Vitest"/>     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" alt=SQL/>     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" height="40" alt="Pytest"/> 
-  <img src="https://github.com/user-attachments/assets/9789b135-e363-4e3f-9262-8fbe15878bbb" width="40" height="40" alt="Charles Proxy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
-  <img src="https://github.com/user-attachments/assets/78ab3f11-04a9-460b-ab90-d8406649d310" width="40" height="40" alt="Allure Reports"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40" alt="Swagger"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="40" height="40" alt="Jira"/>
-  <img src="https://github.com/user-attachments/assets/d42bd290-0baa-4030-9600-8c4711186354" width="40" height="40" alt="Aiogram"/>
-  <img src="https://github.com/user-attachments/assets/191827df-9c93-487f-8e22-de65e97268dc" width="40" height="40" alt="Apache Kafka"/>
-  <img src="https://github.com/user-attachments/assets/212deb1f-9cc4-436d-8102-cd20fca5baad" width="40" height="40" alt="Bash"/>
-  <img src="https://github.com/user-attachments/assets/a288291a-fa2e-4003-8c5c-c71aa933892e" width="40" height="40" alt="TestIT"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="5%" alt="Javascript"/>     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="5%" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="5%" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="5%" alt="Vitest"/>     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="5%" alt=SQL/>     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="5%" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="5%" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="5%" alt="Pytest"/> 
+  <img src="https://github.com/user-attachments/assets/9789b135-e363-4e3f-9262-8fbe15878bbb" width="5%" alt="Charles Proxy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="5%" alt="Postman"/>
+  <img src="https://github.com/user-attachments/assets/78ab3f11-04a9-460b-ab90-d8406649d310" width="5%" alt="Allure Reports"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="5%" alt="Android Studio"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="5%" alt="Swagger"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="5%" alt="Jira"/>
+  <img src="https://github.com/user-attachments/assets/d42bd290-0baa-4030-9600-8c4711186354" width="5%" alt="Aiogram"/>
+  <img src="https://github.com/user-attachments/assets/191827df-9c93-487f-8e22-de65e97268dc" width="5%" alt="Apache Kafka"/>
+  <img src="https://github.com/user-attachments/assets/212deb1f-9cc4-436d-8102-cd20fca5baad" width="5%" alt="Bash"/>
+  <img src="https://github.com/user-attachments/assets/a288291a-fa2e-4003-8c5c-c71aa933892e" width="5%" alt="TestIT"/>  
 </p>
